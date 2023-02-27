@@ -1,1 +1,5 @@
-ola 
+Comandos do git:
+git init - para iniciar
+git status - para saber o status do arquivo
+git add "nome do arquivo em vermlho" - para adicionar 1 arquivo
+git add . - para adicionar todos os arquivos pendentes
